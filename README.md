@@ -1,4 +1,4 @@
-# Analogue OS Font
+# GamePocket Font
 
 ![Banner](banner.png)
 
