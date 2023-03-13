@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright" format="2">
+	<advance width="200"/>
+	<unicode hex="2019"/>
+	<outline>
+		<component base="quoteleft" xScale="-1" yScale="-1" xOffset="200" yOffset="1200"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=l</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=l</string>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>KernOnSpecialSpacing</key>
+				<dict>
+					<key>L</key>
+					<string>quotes</string>
+					<key>R</key>
+					<string>quotes</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

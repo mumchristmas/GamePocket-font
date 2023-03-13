@@ -1,0 +1,18 @@
+{
+glyphname = questiondown;
+kernRight = KO_questiondown;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+angle = 180;
+pos = (550,500);
+ref = question;
+}
+);
+width = 550;
+}
+);
+unicode = 191;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = ntilde;
+kernLeft = KO_n;
+kernRight = KO_n;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (50,-50);
+ref = tildecomb;
+}
+);
+width = 500;
+}
+);
+unicode = 241;
+}

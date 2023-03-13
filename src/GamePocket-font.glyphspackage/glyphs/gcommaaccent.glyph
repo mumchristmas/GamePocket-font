@@ -1,0 +1,21 @@
+{
+glyphname = gcommaaccent;
+kernLeft = KO_e;
+kernRight = KO_g;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (200,-50);
+ref = commaturnedabovecomb;
+}
+);
+width = 550;
+}
+);
+unicode = 291;
+}

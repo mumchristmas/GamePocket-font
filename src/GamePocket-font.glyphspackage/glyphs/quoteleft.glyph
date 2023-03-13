@@ -1,0 +1,54 @@
+{
+glyphname = quoteleft;
+kernLeft = KO_quoteright;
+kernRight = KO_quoteleft;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (50,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,500);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,500);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,650);
+ref = pixel;
+}
+);
+userData = {
+com.fontlab.metricsLeft = "=l";
+com.fontlab.metricsRight = "=l";
+};
+width = 200;
+}
+);
+unicode = 8216;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

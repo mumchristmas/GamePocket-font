@@ -1,0 +1,62 @@
+{
+glyphname = doublemacronbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (150,0);
+},
+{
+name = bottom;
+pos = (150,-100);
+}
+);
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (50,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (350,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (400,-100);
+ref = pixel;
+}
+);
+width = 500;
+}
+);
+unicode = 863;
+}

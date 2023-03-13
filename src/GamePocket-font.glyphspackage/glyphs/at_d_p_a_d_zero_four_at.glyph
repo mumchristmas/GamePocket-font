@@ -1,0 +1,58 @@
+{
+color = 9;
+glyphname = at_d_p_a_d_zero_four_at;
+kernLeft = KO_at_d_p_a_d_zero_one_at;
+kernRight = KO_at_d_p_a_d_zero_one_at;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+attr = {
+reversePaths = "1";
+};
+ref = at_d_p_a_d_zero_zero_at;
+},
+{
+alignment = -1;
+pos = (550,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (550,-50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (550,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (500,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (600,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (600,-50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (500,-50);
+ref = pixel;
+}
+);
+width = 1150;
+}
+);
+tags = (
+"AP-HiddenStuff"
+);
+}

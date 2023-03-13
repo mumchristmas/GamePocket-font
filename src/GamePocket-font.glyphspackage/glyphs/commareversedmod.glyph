@@ -1,0 +1,17 @@
+{
+glyphname = commareversedmod;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (200,0);
+ref = apostrophemod;
+scale = (-1,1);
+}
+);
+width = 200;
+}
+);
+unicode = 701;
+}

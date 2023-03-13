@@ -1,0 +1,21 @@
+{
+glyphname = AEmacron;
+kernLeft = KO_A;
+kernRight = KO_E;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = AE;
+},
+{
+pos = (300,150);
+ref = macroncomb;
+}
+);
+width = 900;
+}
+);
+unicode = 482;
+}

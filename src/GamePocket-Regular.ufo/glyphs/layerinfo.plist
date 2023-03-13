@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lib</key>
+	<dict>
+		<key>KernOnModels</key>
+		<array>
+			<string>T o</string>
+			<string>v A</string>
+			<string>V a</string>
+			<string>V A</string>
+			<string>hyphen one</string>
+			<string>k i</string>
+			<string>t o</string>
+			<string>t w</string>
+			<string>r r</string>
+			<string>s o</string>
+			<string>w a</string>
+			<string>S T</string>
+			<string>c i</string>
+			<string>c l</string>
+			<string>i z</string>
+			<string>l l</string>
+			<string>n n</string>
+			<string>u n</string>
+			<string>u p</string>
+			<string>o o</string>
+			<string>E H</string>
+			<string>N N</string>
+			<string>T H</string>
+			<string>Z Z</string>
+			<string>A H</string>
+			<string>A S</string>
+			<string>S A</string>
+		</array>
+		<key>com.fontlab.layer.locked</key>
+		<integer>0</integer>
+		<key>com.fontlab.layer.name</key>
+		<string>Regular</string>
+		<key>com.fontlab.layer.opacity</key>
+		<integer>1</integer>
+		<key>com.fontlab.layer.service</key>
+		<integer>0</integer>
+		<key>com.fontlab.layer.visible</key>
+		<integer>1</integer>
+		<key>com.fontlab.layer.wireframe</key>
+		<integer>0</integer>
+	</dict>
+</dict>
+</plist>

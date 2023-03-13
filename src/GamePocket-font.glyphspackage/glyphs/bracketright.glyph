@@ -1,0 +1,32 @@
+{
+color = 4;
+glyphname = bracketright;
+kernLeft = KO_bracketright;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (300,0);
+ref = bracketleft;
+scale = (-1,1);
+}
+);
+userData = {
+com.fontlab.metricsLeft = "=l";
+com.fontlab.metricsRight = "=l";
+};
+width = 300;
+}
+);
+tags = (
+"AP-Original"
+);
+unicode = 93;
+userData = {
+KernOnSpecialSpacing = {
+L = parenthesis;
+R = NoKerning;
+};
+};
+}

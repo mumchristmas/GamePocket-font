@@ -1,0 +1,33 @@
+{
+color = 4;
+glyphname = greater;
+kernLeft = KO_greater;
+kernRight = KO_less;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (600,0);
+ref = less;
+scale = (-1,1);
+}
+);
+userData = {
+com.fontlab.metricsLeft = "=l";
+com.fontlab.metricsRight = "=l";
+};
+width = 600;
+}
+);
+tags = (
+"AP-Original"
+);
+unicode = 62;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

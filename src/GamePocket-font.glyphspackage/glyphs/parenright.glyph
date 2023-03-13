@@ -1,0 +1,32 @@
+{
+color = 4;
+glyphname = parenright;
+kernLeft = KO_parenright;
+kernRight = KO_parenright;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (350,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+userData = {
+com.fontlab.metricsLeft = "=l";
+com.fontlab.metricsRight = "=l";
+};
+width = 350;
+}
+);
+tags = (
+"AP-Original"
+);
+unicode = 41;
+userData = {
+KernOnSpecialSpacing = {
+L = parenthesis;
+};
+};
+}

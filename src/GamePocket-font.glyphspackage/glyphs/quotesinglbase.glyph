@@ -1,0 +1,17 @@
+{
+glyphname = quotesinglbase;
+kernRight = KO_period;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (0,-600);
+ref = quotesingle;
+}
+);
+width = 200;
+}
+);
+unicode = 8218;
+}

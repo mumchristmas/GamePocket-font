@@ -1,0 +1,54 @@
+{
+color = 9;
+glyphname = "leftflattenedparenthesis-math";
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = parenleft;
+},
+{
+alignment = -1;
+pos = (150,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,150);
+ref = pixel;
+}
+);
+width = 350;
+}
+);
+tags = (
+"AP-HiddenStuff"
+);
+unicode = 10222;
+}

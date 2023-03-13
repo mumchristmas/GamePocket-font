@@ -1,0 +1,20 @@
+{
+glyphname = Itilde;
+kernRight = KO_jacute;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-100,150);
+ref = tildecomb;
+}
+);
+width = 200;
+}
+);
+unicode = 296;
+}

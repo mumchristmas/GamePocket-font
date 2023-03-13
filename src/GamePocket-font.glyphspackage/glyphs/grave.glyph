@@ -1,0 +1,19 @@
+{
+color = 4;
+glyphname = grave;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 250;
+}
+);
+tags = (
+"AP-Original"
+);
+unicode = 96;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = Wgrave;
+kernLeft = KO_W;
+kernRight = KO_W;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (350,150);
+ref = gravecomb;
+}
+);
+width = 950;
+}
+);
+unicode = 7808;
+}

@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'Analogue';
-  src: url('../dist/AnalogueOS-Regular.woff2') format('woff2'),
-       url('../dist/AnalogueOS-Regular.woff') format('woff');
+  font-family: 'GamePocket';
+  src: url('../dist/GamePocket-Regular.woff2') format('woff2'),
+       url('../dist/GamePocket-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -10,23 +10,23 @@
   Add the following to prevent faux bold and italic styles from being applied:
 */
 @font-face {
-  font-family: 'Analogue';
-  src: url('../dist/AnalogueOS-Regular.woff2') format('woff2'),
-       url('../dist/AnalogueOS-Regular.woff') format('woff');
+  font-family: 'GamePocket';
+  src: url('../dist/GamePocket-Regular.woff2') format('woff2'),
+       url('../dist/GamePocket-Regular.woff') format('woff');
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Analogue';
-  src: url('../dist/AnalogueOS-Regular.woff2') format('woff2'),
-       url('../dist/AnalogueOS-Regular.woff') format('woff');
+  font-family: 'GamePocket';
+  src: url('../dist/GamePocket-Regular.woff2') format('woff2'),
+       url('../dist/GamePocket-Regular.woff') format('woff');
   font-weight: normal;
   font-style: italic;
 }
 @font-face {
-  font-family: 'Analogue';
-  src: url('../dist/AnalogueOS-Regular.woff2') format('woff2'),
-       url('../dist/AnalogueOS-Regular.woff') format('woff');
+  font-family: 'GamePocket';
+  src: url('../dist/GamePocket-Regular.woff2') format('woff2'),
+       url('../dist/GamePocket-Regular.woff') format('woff');
   font-weight: bold;
   font-style: italic;
 }

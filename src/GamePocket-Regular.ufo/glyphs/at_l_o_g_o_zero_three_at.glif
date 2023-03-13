@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="at_l_o_g_o_zero_three_at" format="2">
+	<advance width="1450"/>
+	<outline>
+		<component base="at_l_o_g_o_zero_one_at" xOffset="200"/>
+		<component base="at_k_e_y_zero_eight_at"/>
+	</outline>
+</glyph>

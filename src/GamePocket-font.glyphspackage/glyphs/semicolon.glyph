@@ -1,0 +1,35 @@
+{
+color = 4;
+glyphname = semicolon;
+kernLeft = KO_semicolon;
+kernRight = KO_asterisk;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (0,-50);
+ref = colon;
+}
+);
+userData = {
+com.fontlab.metricsLeft = "=l";
+com.fontlab.metricsRight = "=l";
+};
+width = 200;
+}
+);
+tags = (
+"AP-Original"
+);
+unicode = 59;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
+}

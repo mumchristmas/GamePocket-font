@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="2">
+	<advance width="200"/>
+	<unicode hex="003B"/>
+	<outline>
+		<component base="comma"/>
+		<component base="colon" yOffset="-50"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=l</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=l</string>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>KernOnSpecialSpacing</key>
+				<dict>
+					<key>L</key>
+					<string>spaced-off</string>
+					<key>R</key>
+					<string>spaced-off</string>
+				</dict>
+			</dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

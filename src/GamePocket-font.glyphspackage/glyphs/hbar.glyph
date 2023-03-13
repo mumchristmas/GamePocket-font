@@ -1,0 +1,20 @@
+{
+glyphname = hbar;
+kernRight = KO_n;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = h;
+},
+{
+pos = (-50,300);
+ref = strokeshortcomb;
+}
+);
+width = 550;
+}
+);
+unicode = 295;
+}

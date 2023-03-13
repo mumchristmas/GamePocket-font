@@ -1,0 +1,29 @@
+{
+glyphname = quoteright;
+kernLeft = KO_quoteright;
+kernRight = KO_quoteleft;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+angle = 180;
+pos = (200,1200);
+ref = quoteleft;
+}
+);
+userData = {
+com.fontlab.metricsLeft = "=l";
+com.fontlab.metricsRight = "=l";
+};
+width = 200;
+}
+);
+unicode = 8217;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

@@ -1,0 +1,24 @@
+{
+glyphname = udieresiscaron;
+kernRight = KO_i;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (50,-50);
+ref = dieresiscomb;
+},
+{
+pos = (50,100);
+ref = caroncomb;
+}
+);
+width = 500;
+}
+);
+unicode = 474;
+}

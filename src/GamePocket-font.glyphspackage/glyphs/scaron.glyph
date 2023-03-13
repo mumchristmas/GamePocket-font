@@ -1,0 +1,21 @@
+{
+glyphname = scaron;
+kernLeft = KO_a;
+kernRight = KO_s;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (100,-50);
+ref = caroncomb;
+}
+);
+width = 600;
+}
+);
+unicode = 353;
+}

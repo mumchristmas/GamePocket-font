@@ -1,0 +1,50 @@
+{
+glyphname = tilde;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (50,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,350);
+ref = pixel;
+}
+);
+userData = {
+com.fontlab.metricsLeft = "=l";
+com.fontlab.metricsRight = "=l";
+};
+width = 400;
+}
+);
+note = "!!! Glyphs broken at FW 1.1 beta7";
+tags = (
+"AP-HiddenStuff"
+);
+unicode = 732;
+}

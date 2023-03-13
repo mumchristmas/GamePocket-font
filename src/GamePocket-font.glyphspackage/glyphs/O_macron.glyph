@@ -1,0 +1,21 @@
+{
+glyphname = Omacron;
+kernLeft = KO_O;
+kernRight = KO_O;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (200,150);
+ref = macroncomb;
+}
+);
+width = 700;
+}
+);
+unicode = 332;
+}

@@ -27,7 +27,7 @@ body {
 }
 
 main, footer {
-  font-family: Analogue, sans-serif;
+  font-family: GamePocket, sans-serif;
   -webkit-font-smoothing: antialiased;
   max-width: 800px;
   margin: auto;

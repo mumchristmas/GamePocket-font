@@ -1,0 +1,19 @@
+{
+glyphname = oslash;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (-50,-50);
+ref = slashlongcomb;
+}
+);
+width = 550;
+}
+);
+unicode = 248;
+}

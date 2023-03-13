@@ -1,0 +1,21 @@
+{
+glyphname = dcroat;
+kernLeft = KO_e;
+kernRight = KO_jacute;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = d;
+},
+{
+pos = (200,300);
+ref = strokeshortcomb;
+}
+);
+width = 550;
+}
+);
+unicode = 273;
+}

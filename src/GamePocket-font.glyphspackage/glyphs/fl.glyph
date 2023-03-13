@@ -1,0 +1,23 @@
+{
+glyphname = fl;
+kernLeft = KO_t;
+kernRight = KO_fi;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = f;
+},
+{
+pos = (250,0);
+ref = l;
+}
+);
+width = 450;
+}
+);
+metricLeft = f;
+metricRight = l;
+unicode = 64258;
+}

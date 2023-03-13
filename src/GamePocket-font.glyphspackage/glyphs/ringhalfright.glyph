@@ -1,0 +1,17 @@
+{
+glyphname = ringhalfright;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (250,0);
+ref = ringhalfleft;
+scale = (-1,1);
+}
+);
+width = 250;
+}
+);
+unicode = 702;
+}

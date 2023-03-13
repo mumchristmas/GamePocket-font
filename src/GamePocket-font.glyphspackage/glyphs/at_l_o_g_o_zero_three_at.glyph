@@ -1,0 +1,20 @@
+{
+glyphname = at_l_o_g_o_zero_three_at;
+kernLeft = KO_at_k_e_y_zero_seven_at;
+kernRight = KO_at_k_e_y_zero_seven_at;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (200,0);
+ref = at_l_o_g_o_zero_one_at;
+},
+{
+ref = at_k_e_y_zero_eight_at;
+}
+);
+width = 1450;
+}
+);
+}

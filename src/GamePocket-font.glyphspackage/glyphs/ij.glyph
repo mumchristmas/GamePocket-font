@@ -1,0 +1,21 @@
+{
+glyphname = ij;
+kernLeft = KO_i;
+kernRight = KO_i;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (200,0);
+ref = j;
+}
+);
+width = 400;
+}
+);
+unicode = 307;
+}

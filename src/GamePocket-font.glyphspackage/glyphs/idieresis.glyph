@@ -1,0 +1,19 @@
+{
+glyphname = idieresis;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-100,-50);
+ref = dieresiscomb;
+}
+);
+width = 200;
+}
+);
+unicode = 239;
+}

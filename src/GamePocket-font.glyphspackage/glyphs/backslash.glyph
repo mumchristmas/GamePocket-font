@@ -1,0 +1,33 @@
+{
+color = 4;
+glyphname = backslash;
+kernLeft = KO_backslash;
+kernRight = KO_period;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (550,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+userData = {
+com.fontlab.metricsLeft = "=l";
+com.fontlab.metricsRight = "=l";
+};
+width = 550;
+}
+);
+tags = (
+"AP-Original"
+);
+unicode = 92;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
+}

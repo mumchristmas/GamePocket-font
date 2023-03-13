@@ -1,0 +1,25 @@
+{
+glyphname = udieresisgrave;
+kernLeft = KO_u;
+kernRight = KO_i;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (50,-50);
+ref = dieresiscomb;
+},
+{
+pos = (100,100);
+ref = gravecomb;
+}
+);
+width = 500;
+}
+);
+unicode = 476;
+}

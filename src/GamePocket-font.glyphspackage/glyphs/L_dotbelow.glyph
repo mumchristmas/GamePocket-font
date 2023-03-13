@@ -1,0 +1,21 @@
+{
+glyphname = Ldotbelow;
+kernLeft = KO_H;
+kernRight = KO_L;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (200,0);
+ref = dotbelowcomb;
+}
+);
+width = 550;
+}
+);
+unicode = 7734;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = jacute;
+kernRight = KO_jacute;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (0,-50);
+ref = acutecomb;
+}
+);
+width = 200;
+}
+);
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="2">
+	<advance width="400"/>
+	<unicode hex="02DC"/>
+	<note>
+		!!! Glyphs broken at FW 1.1 beta7
+	</note>
+	<outline>
+		<component base="pixel" xOffset="50" yOffset="300"/>
+		<component base="pixel" xOffset="100" yOffset="350"/>
+		<component base="pixel" xOffset="150" yOffset="350"/>
+		<component base="pixel" xOffset="200" yOffset="300"/>
+		<component base="pixel" xOffset="250" yOffset="300"/>
+		<component base="pixel" xOffset="300" yOffset="350"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=l</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=l</string>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>4</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>5</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

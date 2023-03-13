@@ -1,0 +1,19 @@
+{
+glyphname = Hbar;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = H;
+},
+{
+pos = (-50,250);
+ref = strokelongcomb;
+}
+);
+width = 650;
+}
+);
+unicode = 294;
+}

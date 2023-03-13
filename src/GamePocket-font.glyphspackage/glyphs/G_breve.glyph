@@ -1,0 +1,21 @@
+{
+glyphname = Gbreve;
+kernLeft = KO_O;
+kernRight = KO_O;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (200,150);
+ref = brevecomb;
+}
+);
+width = 700;
+}
+);
+unicode = 286;
+}

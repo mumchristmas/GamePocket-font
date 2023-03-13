@@ -1,0 +1,20 @@
+{
+glyphname = jcircumflex;
+kernRight = KO_jacute;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-100,-50);
+ref = circumflexcomb;
+}
+);
+width = 200;
+}
+);
+unicode = 309;
+}

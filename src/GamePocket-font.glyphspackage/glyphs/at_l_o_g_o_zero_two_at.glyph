@@ -1,0 +1,28 @@
+{
+color = 9;
+glyphname = at_l_o_g_o_zero_two_at;
+kernLeft = KO_at_f_a_c_e_zero_one_at;
+kernRight = KO_at_f_a_c_e_zero_one_at;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (50,0);
+ref = at_k_e_y_zero_seven_at;
+},
+{
+attr = {
+reversePaths = "1";
+};
+pos = (300,0);
+ref = at_l_o_g_o_zero_one_at;
+}
+);
+width = 1550;
+}
+);
+tags = (
+"AP-HiddenStuff"
+);
+}

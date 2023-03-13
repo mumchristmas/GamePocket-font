@@ -1,0 +1,20 @@
+{
+glyphname = Igrave;
+kernRight = KO_H;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-50,150);
+ref = gravecomb;
+}
+);
+width = 200;
+}
+);
+unicode = 204;
+}

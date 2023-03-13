@@ -1,0 +1,34 @@
+{
+glyphname = periodcentered;
+kernLeft = KO_endash;
+kernRight = KO_endash;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (50,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,250);
+ref = pixel;
+}
+);
+width = 200;
+}
+);
+unicode = 183;
+}

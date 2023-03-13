@@ -1,0 +1,48 @@
+{
+glyphname = commaaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (150,0);
+},
+{
+name = bottom;
+pos = (100,-150);
+}
+);
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (100,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,-150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,-150);
+ref = pixel;
+}
+);
+width = 250;
+}
+);
+unicode = 806;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

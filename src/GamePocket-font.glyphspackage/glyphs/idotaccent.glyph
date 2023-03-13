@@ -1,0 +1,20 @@
+{
+glyphname = idotaccent;
+kernLeft = KO_i;
+kernRight = KO_i;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (0,-50);
+ref = dotaccentcomb;
+}
+);
+width = 200;
+}
+);
+}

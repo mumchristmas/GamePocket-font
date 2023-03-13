@@ -1,0 +1,20 @@
+{
+glyphname = dcaron;
+kernLeft = KO_e;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = d;
+},
+{
+pos = (500,0);
+ref = caroncomb.alt;
+}
+);
+width = 550;
+}
+);
+unicode = 271;
+}

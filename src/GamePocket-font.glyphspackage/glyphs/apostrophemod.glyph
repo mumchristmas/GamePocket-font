@@ -1,0 +1,15 @@
+{
+glyphname = apostrophemod;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = quoteright;
+}
+);
+width = 200;
+}
+);
+unicode = 700;
+}

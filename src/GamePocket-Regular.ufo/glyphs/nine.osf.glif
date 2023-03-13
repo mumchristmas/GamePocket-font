@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.osf" format="2">
+	<advance width="550"/>
+	<outline>
+		<component base="pixel" xOffset="200" yOffset="450"/>
+		<component base="pixel" xOffset="250" yOffset="450"/>
+		<component base="pixel" xOffset="300" yOffset="450"/>
+		<component base="pixel" xOffset="150" yOffset="450"/>
+		<component base="pixel" xOffset="350" yOffset="450"/>
+		<component base="pixel" xOffset="350" yOffset="400"/>
+		<component base="pixel" xOffset="300" yOffset="400"/>
+		<component base="pixel" xOffset="250" yOffset="400"/>
+		<component base="pixel" xOffset="200" yOffset="400"/>
+		<component base="pixel" xOffset="150" yOffset="400"/>
+		<component base="pixel" xOffset="100" yOffset="400"/>
+		<component base="pixel" xOffset="400" yOffset="400"/>
+		<component base="pixel" xOffset="400" yOffset="350"/>
+		<component base="pixel" xOffset="350" yOffset="350"/>
+		<component base="pixel" xOffset="450" yOffset="350"/>
+		<component base="pixel" xOffset="450" yOffset="300"/>
+		<component base="pixel" xOffset="450" yOffset="250"/>
+		<component base="pixel" xOffset="450" yOffset="200"/>
+		<component base="pixel" xOffset="400" yOffset="200"/>
+		<component base="pixel" xOffset="400" yOffset="150"/>
+		<component base="pixel" xOffset="400" yOffset="100"/>
+		<component base="pixel" xOffset="400" yOffset="50"/>
+		<component base="pixel" xOffset="450" yOffset="50"/>
+		<component base="pixel" xOffset="450"/>
+		<component base="pixel" xOffset="450" yOffset="100"/>
+		<component base="pixel" xOffset="450" yOffset="150"/>
+		<component base="pixel" xOffset="450" yOffset="-100"/>
+		<component base="pixel" xOffset="450" yOffset="-50"/>
+		<component base="pixel" xOffset="400" yOffset="250"/>
+		<component base="pixel" xOffset="400" yOffset="300"/>
+		<component base="pixel" xOffset="400"/>
+		<component base="pixel" xOffset="400" yOffset="-50"/>
+		<component base="pixel" xOffset="400" yOffset="-100"/>
+		<component base="pixel" xOffset="350" yOffset="-100"/>
+		<component base="pixel" xOffset="350" yOffset="-150"/>
+		<component base="pixel" xOffset="400" yOffset="-150"/>
+		<component base="pixel" xOffset="300" yOffset="-150"/>
+		<component base="pixel" xOffset="250" yOffset="-150"/>
+		<component base="pixel" xOffset="200" yOffset="-150"/>
+		<component base="pixel" xOffset="150" yOffset="-150"/>
+		<component base="pixel" xOffset="100" yOffset="-150"/>
+		<component base="pixel" xOffset="100" yOffset="-100"/>
+		<component base="pixel" xOffset="150" yOffset="-100"/>
+		<component base="pixel" xOffset="50" yOffset="-100"/>
+		<component base="pixel" xOffset="50" yOffset="-50"/>
+		<component base="pixel" xOffset="100" yOffset="-50"/>
+		<component base="pixel" xOffset="150" yOffset="-200"/>
+		<component base="pixel" xOffset="200" yOffset="-200"/>
+		<component base="pixel" xOffset="250" yOffset="-200"/>
+		<component base="pixel" xOffset="300" yOffset="-200"/>
+		<component base="pixel" xOffset="350" yOffset="-200"/>
+		<component base="pixel" xOffset="350" yOffset="150"/>
+		<component base="pixel" xOffset="350" yOffset="100"/>
+		<component base="pixel" xOffset="300" yOffset="100"/>
+		<component base="pixel" xOffset="250" yOffset="100"/>
+		<component base="pixel" xOffset="200" yOffset="100"/>
+		<component base="pixel" xOffset="250" yOffset="50"/>
+		<component base="pixel" xOffset="300" yOffset="50"/>
+		<component base="pixel" xOffset="200" yOffset="50"/>
+		<component base="pixel" xOffset="150" yOffset="50"/>
+		<component base="pixel" xOffset="150" yOffset="100"/>
+		<component base="pixel" xOffset="150" yOffset="150"/>
+		<component base="pixel" xOffset="100" yOffset="100"/>
+		<component base="pixel" xOffset="100" yOffset="150"/>
+		<component base="pixel" xOffset="100" yOffset="200"/>
+		<component base="pixel" xOffset="50" yOffset="200"/>
+		<component base="pixel" xOffset="50" yOffset="250"/>
+		<component base="pixel" xOffset="100" yOffset="250"/>
+		<component base="pixel" xOffset="100" yOffset="300"/>
+		<component base="pixel" xOffset="100" yOffset="350"/>
+		<component base="pixel" xOffset="150" yOffset="350"/>
+		<component base="pixel" xOffset="50" yOffset="350"/>
+		<component base="pixel" xOffset="50" yOffset="300"/>
+		<component base="pixel" xOffset="50" yOffset="150"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=l</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=l</string>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>4</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>5</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>6</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>7</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>8</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>9</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>10</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>11</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>12</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>13</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>14</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>15</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>16</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>17</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>18</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>19</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>20</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>21</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>22</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>23</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>24</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>25</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>26</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>27</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>28</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>29</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>30</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>31</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>32</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>33</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>34</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>35</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>36</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>37</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>38</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>39</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>40</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>41</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>42</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>43</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>44</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>45</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>46</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>47</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>48</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>49</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>50</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>51</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>52</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>53</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>54</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>55</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>56</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>57</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>58</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>59</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>60</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>61</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>62</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>63</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>64</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>65</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>66</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>67</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>68</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>69</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>70</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>71</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>72</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>73</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

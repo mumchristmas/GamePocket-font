@@ -1,0 +1,20 @@
+{
+glyphname = icaron;
+kernRight = KO_jacute;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-100,-50);
+ref = caroncomb;
+}
+);
+width = 200;
+}
+);
+unicode = 464;
+}

@@ -1,0 +1,21 @@
+{
+color = 9;
+glyphname = "rightflattenedparenthesis-math";
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (350,0);
+ref = "leftflattenedparenthesis-math";
+scale = (-1,1);
+}
+);
+width = 350;
+}
+);
+tags = (
+"AP-HiddenStuff"
+);
+unicode = 10223;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = threeemdash;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (650,0);
+ref = emdash;
+},
+{
+pos = (1300,0);
+ref = emdash;
+},
+{
+ref = emdash;
+}
+);
+width = 2050;
+}
+);
+unicode = 11835;
+}

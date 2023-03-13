@@ -1,0 +1,22 @@
+{
+glyphname = ldotbelowmacron;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = l;
+},
+{
+ref = dotbelowcomb;
+},
+{
+pos = (-50,150);
+ref = macroncomb;
+}
+);
+width = 200;
+}
+);
+unicode = 7737;
+}
